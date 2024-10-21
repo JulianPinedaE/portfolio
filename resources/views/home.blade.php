@@ -162,7 +162,8 @@
                         <div class="service-text">
                             <h3>Project Manager</h3>
                             <p>
-                                Managing technological projects, coordinating teams and resources to ensure timely deliveries, with a focus on web development, video games, gamification, and IoT.
+                                Managing technological projects, coordinating teams and resources to ensure timely
+                                deliveries, with a focus on web development, video games, gamification, and IoT.
                             </p>
                         </div>
                     </div>
@@ -175,7 +176,8 @@
                         <div class="service-text">
                             <h3>Software Architect</h3>
                             <p>
-                                Designing robust and scalable architectures for complex applications, ensuring the best technological strategy for each project.
+                                Designing robust and scalable architectures for complex applications, ensuring the best
+                                technological strategy for each project.
                             </p>
                         </div>
                     </div>
@@ -188,7 +190,8 @@
                         <div class="service-text">
                             <h3>Full Stack Developer</h3>
                             <p>
-                                Full development of web applications from frontend to backend, using modern technologies to provide efficient solutions tailored to the client's needs.
+                                Full development of web applications from frontend to backend, using modern technologies
+                                to provide efficient solutions tailored to the client's needs.
                             </p>
                         </div>
                     </div>
@@ -201,7 +204,8 @@
                         <div class="service-text">
                             <h3>Videogames Developer</h3>
                             <p>
-                                Designing and developing innovative video games, using engines like <b>Unity</b> and <b>Roblox</b>, combining immersive gameplay with gamification elements.
+                                Designing and developing innovative video games, using engines like <b>Unity</b> and
+                                <b>Roblox</b>, combining immersive gameplay with gamification elements.
                             </p>
                         </div>
                     </div>
@@ -222,68 +226,67 @@
             <div class="timeline">
                 <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2023 - Present</div>
+                        <h2>Game Developer</h2>
+                        <h4>Independent Game Developer</h4>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
+                            Developing immersive and innovative experiences on Roblox, with a focus on mini-games featuring unique mechanics. Expertise in game design, scripting and 3D modeling allows me to create engaging content that captivates players and enhances their experience.
                         </p>
+                        <a href="https://www.roblox.com/games/15995588647/Olympus-Odyssey" target="_blank">
+                            <button class="btn btn-primary">Play</button>
+                        </a>
                     </div>
                 </div>
                 <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2019 - Present</div>
+                        <h2>Full Stack Developer</h2>
+                        <h4>Alcaldía de Medellín</h4>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
+                            Led the development and automation of web solutions for citizen services at the Medellín City Hall, improving accessibility and efficiency in public processes. Involved in all stages from project management and software architecture to UX design and full stack development. Technologies used include Laravel PHP, JavaScript, React, Alfresco, PostgreSQL and Git.
                         </p>
                     </div>
                 </div>
                 <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2019 - 2022</div>
+                        <h2>Virtual Reality Game Developer</h2>
+                        <h4>Universidad de Antioquía</h4>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
+                            Designed and developed an innovative virtual reality game aimed at rehabilitation using bicycles, integrating engaging gameplay to facilitate physical recovery. In this project, I took on multiple roles, including game designer, scripter, 3D modeler, UX designer, full stack developer, engineer, project manager and researcher. I utilized various technologies such as Blender, Unity3D (C#), HTC VIVE, Arduino (C), Raspberry PI, Node-RED, JavaScript, HTML5, SQLite, PSoC, Python and Git to create an effective and immersive rehabilitation experience.
+                        </p>
+                        <a href="https://www.youtube.com/watch?v=49tSDCCW3Eo&ab_channel=JulianGamificator" target="_blank">
+                            <button class="btn btn-primary">Watch Project Video</button>
+                        </a>
+                        <p>
+                            <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000139282" target="_blank">View Research Paper</a>
                         </p>
                     </div>
                 </div>
                 <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2020</div>
+                        <h2>Game Developer</h2>
+                        <h4>Independent Game Developer</h4>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
+                            Developed an educational game focused on raising awareness about the care of petroglyphs in the city of Támesis, Antioquia. In this freelance project, I served as the game designer, scripter, UX designer, and 2D animator. Leveraging technologies such as Unity3D (C#), Illustrator and Git, I created an engaging and informative experience that promotes the preservation of cultural heritage.
                         </p>
+                        <a href="https://juego-petroglifos.github.io/juego/" target="_blank">
+                            <button class="btn btn-primary">Play</button>
+                        </a>
                     </div>
                 </div>
                 <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
                     <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
+                        <div class="timeline-date">2017-2018</div>
+                        <h2>Game Developer</h2>
+                        <h4>Mahavir Kmina</h4>
                         <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
+                            Developed games designed to serve as a functional complement for the rehabilitation of patients with lower limb amputation. In this role, I took on various responsibilities, including game designer, scripter, 3D modeler, UX designer, full stack developer, engineer, project manager and researcher. Utilizing a diverse range of technologies such as Blender, Unity3D (C#), JavaScript, HTML5, SQLite, PHP, Matlab and Git, I created interactive and therapeutic experiences tailored to enhance recovery for users.
                         </p>
-                    </div>
-                </div>
-                <div class="timeline-item right wow slideInRight" data-wow-delay="0.1s">
-                    <div class="timeline-text">
-                        <div class="timeline-date">2045 - 2050</div>
-                        <h2>Web Developer</h2>
-                        <h4>Soft Agency, San Francisco, CA</h4>
-                        <p>
-                            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit
-                            semper pretium.
-                        </p>
+                        <a href="https://www.youtube.com/watch?v=S34PJpJKfhw&ab_channel=JulianGamificator" target="_blank">
+                            <button class="btn btn-primary">Watch Project Video</button>
+                        </a>
                     </div>
                 </div>
             </div>
