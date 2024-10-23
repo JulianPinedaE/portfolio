@@ -6,22 +6,26 @@ $(function () {
         },
         submitSuccess: function ($form, event) {
             event.preventDefault();
-            var name = $("input#name").val();
-            var email = $("input#email").val();
-            var subject = $("input#subject").val();
-            var message = $("textarea#message").val();
+            let name = $("input#name").val();
+            let email = $("input#email").val();
+            let subject = $("input#subject").val();
+            let message = $("textarea#message").val();
 
             $this = $("#sendMessageButton");
             $this.prop("disabled", true);
 
+            // Agregar token CSRF
+            let csrfToken = $('meta[name="csrf-token"]').attr('content');
+
             $.ajax({
-                url: "contact.php",
+                url: "/contact",
                 type: "POST",
                 data: {
                     name: name,
                     email: email,
                     subject: subject,
-                    message: message
+                    message: message,
+                    _token: csrfToken // Enviar el token CSRF en la solicitud
                 },
                 cache: false,
                 success: function () {

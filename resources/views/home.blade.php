@@ -24,6 +24,9 @@
 
     <!-- Template Stylesheet -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
@@ -41,7 +44,6 @@
                     <a href="#about" class="nav-item nav-link">About</a>
                     <a href="#service" class="nav-item nav-link">Service</a>
                     <a href="#experience" class="nav-item nav-link">Experience</a>
-                    <a href="#portfolio" class="nav-item nav-link">Portfolio</a>
                     <a href="#contact" class="nav-item nav-link">Contact</a>
                 </div>
             </div>
@@ -314,7 +316,7 @@
 
 
     <!-- Portfolio Start -->
-    <div class="portfolio" id="portfolio">
+    {{-- <div class="portfolio" id="portfolio">
         <div class="container">
             <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
                 <p>My Portfolio</p>
@@ -405,7 +407,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Portfolio End -->
 
 
@@ -784,7 +786,7 @@
                         {{-- <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-facebook-f"></i></a> --}}
                         {{-- <a href=""><i class="fab fa-youtube"></i></a> --}}
-                        <a href=""><i class="fab fa-instagram"></i></a>
+                        {{-- <a href=""><i class="fab fa-instagram"></i></a> --}}
                         <a href=""><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
