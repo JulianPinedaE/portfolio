@@ -44,7 +44,6 @@
                     <a href="#about" class="nav-item nav-link">About</a>
                     <a href="#service" class="nav-item nav-link">Service</a>
                     <a href="#experience" class="nav-item nav-link">Experience</a>
-                    <a href="#contact" class="nav-item nav-link">Contact</a>
                 </div>
             </div>
         </div>
@@ -66,7 +65,7 @@
                                 Videogames Designer, Videogames Developer</div>
                         </div>
                         <div class="hero-btn">
-                            <a class="btn" href="#contact">Contact Me</a>
+                            <a class="btn" href="https://www.linkedin.com/in/julian-pineda-escobar-a87aa553/">Contact Me</a>
                         </div>
                     </div>
                 </div>
@@ -671,7 +670,7 @@
 
 
     <!-- Contact Start -->
-    <div class="contact wow fadeInUp" data-wow-delay="0.1s" id="contact">
+    {{-- <div class="contact wow fadeInUp" data-wow-delay="0.1s" id="contact">
         <div class="container-fluid">
             <div class="container">
                 <div class="row align-items-center">
@@ -713,7 +712,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Contact End -->
 
 
@@ -787,7 +786,7 @@
                             <a href=""><i class="fab fa-facebook-f"></i></a> --}}
                         {{-- <a href=""><i class="fab fa-youtube"></i></a> --}}
                         {{-- <a href=""><i class="fab fa-instagram"></i></a> --}}
-                        <a href=""><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.linkedin.com/in/julian-pineda-escobar-a87aa553/"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
             </div>
